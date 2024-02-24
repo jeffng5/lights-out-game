@@ -1,0 +1,11 @@
+.Board {
+  margin: 0 auto;
+}
+
+button {
+background-color: red;
+color: white;
+border-radius: 8px;
+
+
+}
